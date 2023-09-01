@@ -1,1 +1,1 @@
-this is the readmea
+doing hard things
